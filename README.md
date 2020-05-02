@@ -24,7 +24,7 @@ The high is represents by a vertical line extending from the top of the body to 
 
 Here are some steps to follow: 
 - Fork this repo.
-- Install all the requirements in your system:
+- Install all the requirements in your system. (Visit ```requirements.txt``` file)
   - pip install python
   - pip install bokeh
   - pip install flask
