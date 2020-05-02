@@ -2,7 +2,7 @@
 
 **Bokeh** is a data visualization library in **Python** that provides high-performance interactive charts and plots. Bokeh output can be obtained in various mediums like notebook, html and server. It is possible to embed bokeh plots in Django and flask apps.
 
-Here, I have deployed it on [my website](https://web-app-pt.herokuapp.com/) using flask, it was cool right!? :world_map:
+Here, I have deployed it on <a href="https://web-app-pt.herokuapp.com/" target="_blank">my website</a> using flask, it was cool right!? :world_map:
 
 The graph which is plotted in this financial web graph is called as *candlestick chart*
 
