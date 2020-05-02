@@ -1,4 +1,4 @@
-# Financial web graph
+# Data visualization of financial web graph
 
 **Bokeh** is a data visualization library in **Python** that provides high-performance interactive charts and plots. Bokeh output can be obtained in various mediums like notebook, html and server. It is possible to embed bokeh plots in Django and flask apps.
 
@@ -23,8 +23,12 @@ The high is represents by a vertical line extending from the top of the body to 
 ![Image of Graph](https://github.com/prathameshThakur/Financial-web-graph/blob/master/bokeh_plot%20.png)
 
 Here are some steps to follow: 
-1. Fork this repo.
-2. Install all the requirements in your system. (you will find all the requirements in ```requirements.txt``` file)
-3. Run ```script1.py``` in your local system..
+- Fork this repo.
+- Install all the requirements in your system:
+  - pip install python
+  - pip install bokeh
+  - pip install flask
+  - pip install pandas_datareader
+- Run ```script1.py``` in your local system..
 
 :man_technologist::wink: Have a nice day!
